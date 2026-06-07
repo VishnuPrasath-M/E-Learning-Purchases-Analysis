@@ -84,9 +84,12 @@ Findings highlight opportunities to focus marketing on top categories, optimize 
 ---
 
 ## 👨‍💻 Author:
-Vishnu Prasath  
+Vishnu Prasath M 
+
 📧 mvishnuprasath20@gmail.com
+
 🌐 GitHub: VishnuPrasath-M  
+
 💼 LinkedIn: m-vishnu-prasath (linkedin.com in Bing)
 
 ---
