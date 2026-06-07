@@ -84,13 +84,12 @@ Findings highlight opportunities to focus marketing on top categories, optimize 
 ---
 
 ## 👨‍💻 Author:
-Vishnu Prasath M 
+- Vishnu Prasath M
+- Data Analyst | Power BI Developer
 
-📧 mvishnuprasath20@gmail.com
-
-🌐 GitHub: VishnuPrasath-M  
-
-💼 LinkedIn: m-vishnu-prasath (linkedin.com in Bing)
+- 🌐 GitHub: https://github.com/VishnuPrasath-M
+- 💼 LinkedIn: https://www.linkedin.com/in/m-vishnu-prasath/
+- 📧 Email: mvishnuprasath20@gmail.com
 
 ---
 
